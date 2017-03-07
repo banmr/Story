@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'BPreplay';
+  src:  url('../fonts/BPreplay.otf')  format('opentype'),
+        url('./fonts/BPreplay.eot') format('embedded-opentype'),
+        url('./fonts/BPreplay.woff') format('woff'), 
+        url('./fonts/BPreplay.ttf')  format('truetype'), 
+        url('./fonts/BPreplay.svg#BPreplay') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
